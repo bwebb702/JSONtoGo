@@ -1,0 +1,36 @@
+{
+  "properties":
+  {
+    "timestamp_sys": "hello",
+    "timestamp_mono": 3.14,
+    "gps_valid": true,
+    "last_gps_time": "hello_time_str",
+    "tatt": 3.14,
+    "logger_id": "hello_ID",
+    "device_id": "hello_dID",
+    "data":
+    {
+      "detectedDopplerHz": 314,
+      "frequency": 314,
+      "iq_filename": "hello_darkness_my_old_friend",
+      "slotdata": "hello",
+      "Decoded":
+      {
+        "FullLinkControl":
+        {
+          "PF": true,
+          "FLCO": 314,
+          "FID": 314,
+          "Options": "hello",
+          "SourceAddr": 3,
+          "GroupAddr": 4
+        }
+      }
+    }
+  },
+  "geometry":
+  {
+    "type": "hello",
+    "coordinates": [3.14, 3.141, 3.145]
+  }
+}
